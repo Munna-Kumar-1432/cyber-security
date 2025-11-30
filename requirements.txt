@@ -1,0 +1,22 @@
+# Password Strength Checker - Requirements
+# Python 3.7 or higher required
+
+# Core dependencies (all built-in, no external packages needed)
+# The following are optional for advanced features:
+
+# Optional: Advanced password strength library
+# zxcvbn-python>=0.0.1
+
+# Optional: For web interface (if building web version)
+# flask>=2.0.0
+# flask-cors>=3.0.0
+
+# Optional: For PDF report generation
+# reportlab>=3.6.0
+
+# Optional: For HaveIBeenPwned API integration
+# requests>=2.28.0
+
+# Note: This project uses only Python standard library
+# No external dependencies required for basic functionality
+
